@@ -1,9 +1,5 @@
-<center>
-  # Hi 👋, I'm Rafael Mota
-</center>
-<center>
-  ## A dedicated Python student
-</center>
+<center>Hi 👋, I'm Rafael Mota</center>
+<center>A dedicated Python student</center>
 
 - 🇧🇷
 - 📚 Currently studying systems analysis and development at IFSP
