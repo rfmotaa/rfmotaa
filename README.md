@@ -3,7 +3,7 @@
 
 - 🇧🇷
 - 📚 Currently studying systems analysis and development at IFSP
-- 💻 Learning Python and C/C++
+- 💻 Learning Python and C++
 
 ## Technologies
 
