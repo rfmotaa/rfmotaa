@@ -1,5 +1,5 @@
 <center><h1>Hi 👋, I'm Rafael Mota</h1></center>
-<center><h3>A dedicated Computer Science student</h3></center>
+<center><h3>A dedicated Software Developer</h3></center>
 
 - 🇧🇷
 - 📚 Currently studying systems analysis and development at IFSP
