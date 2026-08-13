@@ -3,7 +3,7 @@
 
 # Hey, I'm Rafael Mota 👋
 
-### Backend Software Engineer · Java & Spring · APIs · Distributed Systems
+### Software Engineer · Java & Spring · APIs · Distributed Systems
 
 <p>
   <a href="mailto:rafaelssoni1000@gmail.com">
