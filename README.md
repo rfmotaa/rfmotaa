@@ -44,25 +44,6 @@ devops    →   Docker · Kubernetes · Linux
 
 ---
 
-## `$ experience`
-
-### Software Engineering Intern · Mundiale
-
-**Mar 2026 — Present · Remote · Belo Horizonte, Brazil**
-
-- Built an API endpoint to replace high-frequency Cron jobs, reducing redundant calls to the **Meta Business API** through targeted lead searches.
-- Implemented a **webhook-based Meta integration** for real-time event processing, replacing database polling and improving observability with **Grafana dashboards**.
-- Refactored a **Microsoft Graph API** integration to handle eventual consistency issues, adding an **OData fallback** and in-memory message filtering/sorting for greater reliability.
-
-### Software Engineering Intern · Olivnov
-
-**Oct 2025 — Feb 2026 · Remote · São Paulo, Brazil**
-
-- Built a reusable **React component library** from Figma prototypes, accelerating frontend development across internal projects.
-- Optimized high-traffic SQL queries using **execution-plan analysis and indexing**, reducing query complexity from **O(n) to O(log n)** and improving latency.
-
----
-
 ## `$ tech-stack`
 
 ### Backend
@@ -109,37 +90,6 @@ devops    →   Docker · Kubernetes · Linux
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
 </p>
-
-
----
-
-## `$ projects`
-
-### 📚 Bibliomanager
-
-**Java · Spring Boot · MySQL · React**
-
-A full-stack platform designed to replace a legacy academic library system, with redesigned user flows and **90% test coverage across core backend logic**.
-
-### 🏙️ UrbanReport
-
-**Flutter · Firebase · Backend Integration**
-
-A mobile platform for reporting urban issues. Contributed to the architecture and backend integration, including discussions with **two municipal administrations** to evaluate pilot implementations.
-
-### 🧠 DSA & OOP Study Group
-
-**Founder & Technical Lead · Aug 2025 — Mar 2026**
-
-Founded and led a technical study group for **20+ students**, focused on data structures, algorithms, object-oriented programming, and technical interview preparation.
-
----
-
-## `$ education`
-
-**Systems Analysis and Development**  
-Instituto Federal de Educação, Ciência e Tecnologia de São Paulo — **IFSP**  
-Jan 2024 — Dec 2026 *(expected)* · Academic score: **8.86 / 10.0**
 
 ---
 
