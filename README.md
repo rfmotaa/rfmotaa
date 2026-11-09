@@ -298,8 +298,6 @@ Studying Data Structures, Algorithms, Complexity Analysis and Problem Solving.
 
 <br/><br/>
 
-
-<img height="180em" src="./profile/stats.svg" alt="GitHub Stats">
 <img height="180em" src="./profile/top-langs.svg" alt="Top Languages">
 
 
